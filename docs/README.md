@@ -17,3 +17,18 @@ Project teams consist of a Project Manager (PM) who coordinates delivery, schedu
 ## QA & Risk Practices
 
 Quality assurance is embedded throughout the development process with unit tests for new logic, integration tests for component interactions, and end-to-end smoke tests for critical flows before release. All CI pipelines include automated security scanning to catch vulnerabilities early. Risks are managed proactively through a Risk Register that captures ID, description, impact, likelihood, owner, mitigation plan, and status—reviewed weekly in team syncs and updated as situations evolve. After each sprint, release, or incident, teams hold retrospectives to identify what went well and what could improve, prioritizing 2–3 actionable items with clear owners and due dates. These action items are tracked in the project backlog, ensuring continuous improvement becomes part of the team's regular workflow rather than a one-time exercise.
+
+## Process Documentation
+
+For detailed guidance on each phase and practice, refer to the following process documents:
+
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
+
+Additions and improvements to these process docs are welcome via pull request or issue.
