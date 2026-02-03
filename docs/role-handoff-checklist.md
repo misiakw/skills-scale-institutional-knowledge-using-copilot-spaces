@@ -88,7 +88,7 @@ For each handoff, ensure the following elements are addressed:
 - [ ] Success metrics mapped to trackable events
 - [ ] Testing approach for analytics defined
 
-**Stakeholders to Notify**: Product Manager (PdM), Developers, QA Engineer, DevOps Engineer
+**Stakeholders to Notify**: Product Manager, Developers, QA Engineer, DevOps Engineer
 
 ---
 

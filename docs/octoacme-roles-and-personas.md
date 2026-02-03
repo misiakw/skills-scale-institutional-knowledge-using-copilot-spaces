@@ -99,6 +99,34 @@ QA Engineers ensure software quality through testing, validation, and verificati
 
 ---
 
+## QA Lead
+
+### Role Summary
+QA Leads define and maintain quality standards and testing strategies for the organization. They coordinate testing activities across teams, establish best practices, and ensure comprehensive quality assurance throughout the software delivery lifecycle.
+
+### Responsibilities
+- Define quality standards and testing methodologies
+- Coordinate test planning and execution across projects
+- Review and approve test plans and quality gates
+- Mentor QA engineers and promote best practices
+- Conduct release readiness assessments
+
+### Goals
+- Establish consistent quality standards across all releases
+- Minimize production defects through comprehensive testing
+- Continuously improve testing efficiency and effectiveness
+
+### Typical Communication / Interaction Points
+- **With Product Managers**: Align on acceptance criteria and quality expectations
+- **With Developers**: Coordinate on testability, review defect priorities
+- **With DevOps Engineer**: Collaborate on test automation and environment strategy
+- **With Stakeholders**: Report quality metrics and release readiness status
+
+### Role Handoffs & Collaboration
+Common handoffs include comprehensive test plans to QA Engineers, quality gate decisions to release teams, and test strategy recommendations to Project Managers. Expected artifacts: test plans, test case repositories, quality reports, release sign-off documentation.
+
+---
+
 ## UX Designer
 
 ### Role Summary
@@ -180,34 +208,6 @@ DevOps Engineers build and maintain the infrastructure, CI/CD pipelines, and dep
 
 ### Role Handoffs & Collaboration
 Common handoffs include deployment playbooks to release teams, infrastructure requirements to Project Managers, and environment configurations to Developers and QA. Expected artifacts: CI/CD pipeline configurations, deployment runbooks, monitoring dashboards, incident response procedures.
-
----
-
-## QA Lead
-
-### Role Summary
-QA Leads define and maintain quality standards and testing strategies for the organization. They coordinate testing activities across teams, establish best practices, and ensure comprehensive quality assurance throughout the software delivery lifecycle.
-
-### Responsibilities
-- Define quality standards and testing methodologies
-- Coordinate test planning and execution across projects
-- Review and approve test plans and quality gates
-- Mentor QA engineers and promote best practices
-- Conduct release readiness assessments
-
-### Goals
-- Establish consistent quality standards across all releases
-- Minimize production defects through comprehensive testing
-- Continuously improve testing efficiency and effectiveness
-
-### Typical Communication / Interaction Points
-- **With Product Managers**: Align on acceptance criteria and quality expectations
-- **With Developers**: Coordinate on testability, review defect priorities
-- **With DevOps Engineer**: Collaborate on test automation and environment strategy
-- **With Stakeholders**: Report quality metrics and release readiness status
-
-### Role Handoffs & Collaboration
-Common handoffs include comprehensive test plans to QA Engineers, quality gate decisions to release teams, and test strategy recommendations to Project Managers. Expected artifacts: test plans, test case repositories, quality reports, release sign-off documentation.
 
 ---
 
