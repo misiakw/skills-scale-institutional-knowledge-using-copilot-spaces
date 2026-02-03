@@ -173,7 +173,7 @@ Data Analysts define measurement strategies, establish success metrics, and prov
 - Identify optimization opportunities through data analysis
 
 ### Typical Communication / Interaction Points
-- **With Product Managers (PdM)**: Define success metrics, interpret results, validate assumptions with data
+- **With Product Managers**: Define success metrics, interpret results, validate assumptions with data
 - **With Developers**: Ensure proper analytics instrumentation and data collection
 - **With QA**: Verify analytics implementation and test data accuracy
 - **With Stakeholders**: Share insights through reports and present findings in reviews

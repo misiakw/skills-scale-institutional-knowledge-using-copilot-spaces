@@ -194,7 +194,7 @@ For each handoff, ensure the following elements are addressed:
 | From Role | To Role | Key Artifacts |
 |-----------|---------|---------------|
 | UX Designer | Developers | Design specs, mockups, style guide, user flows |
-| Data Analyst | Developers/PdM | Analytics specs, event definitions, dashboard requirements |
+| Data Analyst | Developers/Product Manager | Analytics specs, event definitions, dashboard requirements |
 | Developers | QA | PR, test environment, implementation notes |
 | QA Lead | Release Team | Quality report, defect summary, release recommendation |
 | DevOps | Release Team | Deployment runbook, monitoring setup, rollback procedures |
