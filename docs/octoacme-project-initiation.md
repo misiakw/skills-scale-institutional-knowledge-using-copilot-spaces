@@ -28,6 +28,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  (Reference: See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for detailed role descriptions)
+  - Project Manager: [Name]
+  - Product Manager: [Name]
+  - UX Designer: [Name or N/A]
+  - Data Analyst: [Name or N/A]
+  - Tech Lead / Developer: [Name]
+  - DevOps Engineer: [Name or N/A]
+  - QA Lead: [Name or N/A]
+  - Other roles as needed: [Specify]
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
